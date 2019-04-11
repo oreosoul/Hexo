@@ -1,12 +1,15 @@
 ---
 title: Test Article
+date: 2019-04-11 23:07:00
 ---
+
 This is my first article. Let`s try and test it.
 
 ## HEXO IS AWSOME
 It`s never too late to write a blog.
 
 ## Test IMG
-{% asset_img pkm.jpg [This is an example image] %}
+![OverWatch](ow.jpg)
+![pkm](pkm.jpg)
+{% asset_img pkm.jpg pikachu %}
 
-![OverWatch](./images/ow.jpg)

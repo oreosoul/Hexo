@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Cheuk`s Blog
 subtitle: 浪迹天涯难入喉
-description: 浪迹天涯难入喉
-keywords: Cheuk Li 李卓承 blog 博客
+description: Personal blog
+keywords: 李卓承
 author: Cheuk Li
-language:
+language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yoursite.com
-root:
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -81,4 +81,3 @@ deploy:
   type: git
   repo: https://github.com/oreosoul/oreosoul.github.io #https://github.com/oreosoul/oreosoul.github.io
   branch: master #master
-
