@@ -10,5 +10,5 @@ It`s never too late to write a blog.
 
 ## Test IMG
 
-{% asset_img pkm.jpg pikachu %}
+![PIKACHU](/pkm.jpg)
 
