@@ -9,7 +9,6 @@ This is my first article. Let`s try and test it.
 It`s never too late to write a blog.
 
 ## Test IMG
-![OverWatch](ow.jpg)
-![pkm](pkm.jpg)
+
 {% asset_img pkm.jpg pikachu %}
 
